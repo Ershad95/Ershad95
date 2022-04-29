@@ -1,6 +1,6 @@
 #### Hello every one Iam Ershad Raoufi 👋
- 🔭 I’m currently working on coffeeBaz project
- 🌱 I’m currently learning advanced blazor
+#### 🔭 I’m currently working on coffeeBaz project
+#### 🌱 I’m currently learning advanced blazor
 
 #### .Net Developer 💻 👨‍💻⌨️☕🖱️🍩🍫
 #### .Net Core MVC Tech 🎮📱🔲💻 
