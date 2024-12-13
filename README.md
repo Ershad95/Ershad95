@@ -4,7 +4,6 @@
 
 #### .Net Developer 💻 👨‍💻⌨️☕🖱️🍩🍫
 #### .Net Core MVC Tech 🎮📱🔲💻 
-#### I love Xamarin.Forms❤️😎
 
 
 
